@@ -1,0 +1,35 @@
+div{
+  background-color: black;
+  margin: 80px 390px auto;
+  height: 240px;
+  border: 4px dotted red;
+  font-family: Arial, Helvetica, sans-serif;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+h1{
+  text-align: center;
+}
+.text{
+  margin-left: 100px;
+  font-size: 20px;
+}
+button{
+  margin-left: 200px;
+  background-color: red;
+  border: none;
+  color: black;
+  padding: 9px 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+input[type="text"]{
+  background: transparent;
+  border: 2px solid red;
+  border-radius: 4px;
+  color: white;
+}
+#result{
+  margin-left: 150px;
+  color: red;
+}
